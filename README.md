@@ -8,9 +8,8 @@ Our mission is to provide a job portal especially targeted for the elderly and/o
 
 ## Motivations
 
-In the upcoming years, Singapore’s age average is expected to increase faster than that of any other nation. The aging population poses a serious sustainability challenge.
+In the upcoming years, Singapore’s age average is expected to increase faster than that of any other nation. The aging population poses a serious sustainability challenge. Yet, MUCHA GENTE ESTA RETIRADA Y NO TRABAJA, DE LOS CUALES UN PORCENTAJE IMPORTANTE QUIERE TRABAJAR (53% no quiere, 25% si y ya trabaja, 22% si pero no trabaja), either because they NO TIENEN LAS HERRAMIENTAS PARA CONSEGUIR UN TRABAJO O NO LO QUE SEA.
 
-Cooking is healthy, culturally rewarding, and above all funny. Yet, many people don't cook and have never learnt how to, either because it is not part of their culture and they never had the opportunity to, or because they simply don't have time for it.
 As a team of cooking-lover engineers attending the Singapore Nanyang Technopreneurship Center *Startathon*, we decided to tackle this problem by developing an innovative and affordable solution: Smart Chef.
 
 ## Concept
