@@ -46,6 +46,7 @@ Main features:
 
 Additional features that could potentially be implemented:
 * Use an online database instead of a locally-stored file
+
 ADAPTAR TODO:::
 * Allow the user to rate recipes and suggest improvements, use machine learning to update the database based on the score given by many users
 * Advanced feedback to the user using fuzzy logic
