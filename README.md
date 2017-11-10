@@ -9,7 +9,7 @@ Singapore’s demographics are now in a historical turning point: the population
 This poses an imminent demographic challenge to the country’s economy, which is growing into an important concern. The government is already applying a number of initiatives to ensure that their system can stay economically and socially sustainable. As a team of millennial engineers attending the GovTech Singapore Hackathon 2017, we decided to tackle this problem by developing an effective, yet accessible, technological solution: RetWork.
 
 <p align="center">
-	<img src="doc/Technical_slide.png" height="400">
+	<img src="doc/Technical_slide_cut.png" height="400">
 </p>
 
 ## Concept
