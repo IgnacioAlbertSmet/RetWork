@@ -8,19 +8,14 @@ Singapore’s demographics are now in a historical turning point: the population
 
 This poses an imminent demographic challenge to the country’s economy, which is growing into an important concern. The government is already applying a number of initiatives to ensure that their system can stay economically and socially sustainable. As a team of millennial engineers attending the GovTech Singapore Hackathon 2017, we decided to tackle this problem by developing an effective, yet accessible, technological solution: RetWork.
 
-<p align="center">
-	<img src="doc/Technical_slide_cut.png" height="250">
-</p>
-
 ## Concept
 
 A communication system connects employers and retired employees to help them become re-employed, thus contributing to themselves and to the economy of the country. These connecting services are a website and an app, both of which act as search engines for specific job offers that have been posted.
 
-The website allows employers to post job offers into the database and includes more complex search filters. The mobile app can be used from the phone on the move and to call directly the employers. PONER QUE BOTH OF THEM ARE REALLY ACCESSIBLE Y BLA BLA POR EL TECHNOLOGY GAP, Y QUE LA CLAVE ES QUE PARA EL USUARIO ENCONTRAR UN TRABAJO SEA UNA TAREA MUUY SENCILLA, O COSAS ASI PARA VENDERLO UN POCO. EJEMPLO DE SMARTCHEF ABAJO:
+The website allows employers to post job offers into the database and includes more complex search filters. The mobile app can be used from the phone on the move and to call directly the employers. PONER QUE BOTH OF THEM ARE REALLY ACCESSIBLE Y BLA BLA POR EL TECHNOLOGY GAP, Y QUE LA CLAVE ES QUE PARA EL USUARIO ENCONTRAR UN TRABAJO SEA UNA TAREA MUUY SENCILLA, O COSAS ASI PARA VENDERLO UN POCO.
 
 <p align="center">
-	<img src="doc/App_1.png" height="400">
-	<img src="doc/App_2.png" height="400">
+	<img src="doc/Technical_slide_cut.png" height="250">
 </p>
 
 ## Mobile App
@@ -37,6 +32,11 @@ In upcoming updates:
 
 The early prototype was developed with Unity game engine and featured a list of 34 job offers. The Android version is already available for feedback on [Google Play Store](https://play.google.com/store/apps/details?id=com.SevaneGames.RetWork).
 
+<p align="center">
+	<img src="doc/App_1.png" height="400">
+	<img src="doc/App_2.png" height="400">
+</p>
+
 ## Website
 
 ADAPTAR TODO:::
@@ -46,6 +46,11 @@ Main features:
 * Score and achievments sharing with friends
 * Real-time communication with the device
 * Feedback such as: "increase/decrease temperature", "give a stir" or "food is burning"
+
+<p align="center">
+	<img src="doc/Web_1.png" height="200">
+	<img src="doc/Web_2.png" height="200">
+</p>
 
 ## What comes next
 
