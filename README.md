@@ -14,9 +14,10 @@ A communication system connects employers and retired employees to help them bec
 
 The website allows employers to post job offers into the database and includes more complex search filters. The mobile app can be used from the phone on the move and to call directly the employers. PONER QUE BOTH OF THEM ARE REALLY ACCESSIBLE Y BLA BLA POR EL TECHNOLOGY GAP, Y QUE LA CLAVE ES QUE PARA EL USUARIO ENCONTRAR UN TRABAJO SEA UNA TAREA MUUY SENCILLA, O COSAS ASI PARA VENDERLO UN POCO. EJEMPLO DE SMARTCHEF ABAJO:
 
-*A smartphone app guides the user through several recipes, coming from different parts of the world and having diverse levels of difficulty. Step by step, the user receives feedback about his or her cooking technique in a fun and interactive way, allowing him or her to quickly be able to cook delicious food.
-
-*A small device is attached to the cooking pan or pot, and measures several parameters related to the food being cooked, such as temperature, CO2, or vibrations. This data is sent over Bluetooth to the smartphone, which analyses them, and convert them into an intuitive feedback. The device is removable and discreet, so it does not bother the user.
+<p align="center">
+	<img src="doc/App_ui_1.png" height="400">
+	<img src="doc/App_ui_2.png" height="400">
+</p>
 
 ## Mobile App
 
