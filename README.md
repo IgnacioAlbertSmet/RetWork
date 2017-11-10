@@ -14,6 +14,8 @@ A communication system connects employers and retired employees to help them bec
 
 The website allows employers to post job offers into the database and includes more complex search filters. The mobile app can be used from the phone on the move and to call directly the employers. PONER QUE BOTH OF THEM ARE REALLY ACCESSIBLE Y BLA BLA POR EL TECHNOLOGY GAP, Y QUE LA CLAVE ES QUE PARA EL USUARIO ENCONTRAR UN TRABAJO SEA UNA TAREA MUUY SENCILLA, O COSAS ASI PARA VENDERLO UN POCO.
 
+ESTARIA DPM METER ESTE ENLACE: https://drive.google.com/open?id=0B6MA_OmIH_L-Z3RPS3JQN3RwOTA AL VIDEO, QUE ESTA MUY GUAPO Y DA BUENA IMAGEN DEL PROYECTO jajaja 
+
 <p align="center">
 	<img src="doc/Technical_slide_cut.png" height="250">
 </p>
