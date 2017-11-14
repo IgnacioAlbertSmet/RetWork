@@ -1,6 +1,6 @@
 # RetWork
 
-RetWork is a project which aims at helping ameliorate Singapore’s aging crisis with the use of information technology. The solution consists in a mobile app and a website that provide a job portal especially targeted for the elderly and/or retired citizens. Here we present the main features as well as the background of the project.
+RetWork is a project which aims at helping ameliorate Singapore’s aging crisis with the use of information technology. The solution consists in a mobile app and a website that provide a job portal especially targeted for the elderly and/or retired citizens. Here we present the main features as well as the background of the project. OR Here we present the hypothetical features as well as the first prototype.
 
 ## Motivations
 
