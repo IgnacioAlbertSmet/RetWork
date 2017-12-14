@@ -17,7 +17,7 @@ The website allows employers to post job offers into the database and includes m
 IT WOULD BE NICE TO PUT THIS LINK: https://drive.google.com/open?id=0B6MA_OmIH_L-Z3RPS3JQN3RwOTA TO THE VIDEO jajaja THOUGHTS ON THIS?
 
 <p align="center">
-	<img src="doc/Technical_slide_cut.png" height="250">
+	<img src="doc/Slide_1.png" height="250">
 </p>
 
 ## Mobile App
